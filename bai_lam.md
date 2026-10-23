@@ -1,10 +1,10 @@
 # BÀI LÀM – THI THỬ HACKATHON 01
 
 - **Mã đề:** Thi thử
-- **Họ tên:** 
-- **Lớp:** 
-- **Link repository:** 
-- **Hệ điều hành (Windows/macOS):** 
+- **Họ tên:** Nguyễn Đăng Hoàng
+- **Lớp:** cntt1
+- **Link repository:** https://github.com/danghoang1904-source/K26-CNTT1-NH-P-M-N-CNTT-SS01-bai-thi-thu.git
+- **Hệ điều hành (Windows/macOS):** windows
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
 
